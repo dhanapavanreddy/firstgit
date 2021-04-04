@@ -9,5 +9,8 @@ public class girl {
 		System.out.println("welcome bro");
 		System.out.println("Night becomes dark");
 		System.out.println("Prasanth bro javaji");
+		System.out.println("liver fry");
+		System.out.println("beja fry");
+		System.out.println("boti fry");
 	}
 }
