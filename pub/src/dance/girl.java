@@ -6,6 +6,7 @@ public class girl {
 	
 	{
 		System.out.println("night is still young");
+		System.out.println("welcome bro");
 		
 	}
 }
